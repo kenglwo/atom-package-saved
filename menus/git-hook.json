@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Countdown",
+        "command": "git-hook:countdown"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "git-hook",
+          "submenu": [
+            {
+              "label": "Countdown",
+              "command": "git-hook:countdown"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
