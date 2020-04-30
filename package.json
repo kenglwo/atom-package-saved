@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "figlet": "1.0.8",
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   }
 }
